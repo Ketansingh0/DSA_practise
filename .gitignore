@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Node.js
+node_modules/
+
+# Others
+target/
+bin/
